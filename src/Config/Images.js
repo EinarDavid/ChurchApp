@@ -1,0 +1,35 @@
+
+
+const Images = {
+    LOADING: require('../../assets/Loading.jpg'),
+    SPLASH1: require('../../assets/Splash1.jpg'),
+    SPLASH2: require('../../assets/Splash2.jpg'),
+    LOGIN: require('../../assets/Login.jpg'),
+    LINE: require('../../assets/Line.png'),
+    FONDOAPP: require('../../assets/fondo-app.jpg'),
+    HOME: require('../../assets/Home.jpg'),
+    HOME2: require ('../../assets/Home2.jpg'),
+    IMAGE_CARRUSEL: require('../../assets/imagen-carrusel.jpg'),
+    FONDO_ACTIVITY: require('../../assets/Fondo-Activity.jpg'),
+    ACTIVITY_IMAGE: require('../../assets/Activity.png'),
+    ACTIVITY: require('../../assets/Reu.jpg'),
+    FONDO_WHITE:require('../../assets/Fondo_White.jpg') ,
+    FONDO_PERFIL: require('../../assets/Fondo_Perfil.jpg'),
+    FONDO_FOTOPERFIL:require('../../assets/Fondo_FotoPerfil.png'),
+    FOTO: require('../../assets/Foto_Perfil.jpg'),
+    ICON_CI: require('../../assets/ci.png'),
+    IMAGEN2: require('../../assets/imagen2.jpg'),
+    HORARIO: require('../../assets/Horario.png'),
+    HOMEICO: require('../../assets/Icons/Home.png'),
+    ACTIVIDADESICO: require ('../../assets/Icons/Actividades.png'),
+    GALERIAICO: require('../../assets/Icons/Galeria.png'),
+    PERFILICO: require('../../assets/Icons/Perfil.png'),
+    ADDPHOTOS: require('../../assets/Icons/AddPhotos.png'),
+    CHECKICON: require ('../../assets/Icons/Check.png'),
+    PERFILCIRCULE: require ('../../assets/Icons/PerfilCircule.png'),
+    ACTIVIDADESICO2: require ('../../assets/Icons/ActividadesPrimary.png'),
+    UBICACION: require('../../assets/Icons/Ubicacion.png'),
+    UBICACION_BLACK: require('../../assets/Icons/UbicacionBlack.png'),
+}
+
+export default Images
